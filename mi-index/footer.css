@@ -1,0 +1,92 @@
+/*设置页脚容器的样式*/
+.footer{
+    width: 1226px;
+    position: absolute;
+    top: 2000px;
+}
+/*设置页脚顶部的样式*/
+.footer_top{
+    position: relative;
+    left: 96px; 
+}
+.footer_toppic{
+    width: 25px;
+    height: 25px;
+}
+
+/*设置页脚中间的样式*/
+hr{
+    margin-left:96px ;
+}
+.footer_middle{
+    width: 1226px;
+    position: absolute;
+    top: 20px;
+    left: 56px;
+
+}
+.footer_middle0{
+    float: left;
+    margin: 20px 40px;
+}
+.footer_h6{
+    line-height: 60px;
+}
+.footer_a{
+    line-height: 20px;
+
+}
+.footer_middle7{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+
+
+
+/*设置页脚底部的样式*/
+.footer_bottom{
+    position: absolute;
+    top: 250px;
+}
+.footer_pic1{
+    width: 60px;
+    height: 60px;
+    margin-left: 80px;
+}
+.footer_bottom2{
+    width: 1200px;
+    position:absolute;
+    top: 10px;
+    left: 150px;
+}
+a:hover{
+    color: coral;
+}
+.footer_sp{
+    font-size: 0.5em;
+    color: dimgray;
+} 
+.footer_bottoms{
+    margin: -20px 0;
+    padding: 0px;
+}
+.footer_pics{
+    margin: 8px 0px;
+}
+
+
+
+
+
+
+
+.footer_pics{
+    height: 30px;
+    width: 80px;
+}
+h3{
+    margin: 40px;
+    text-align:center;
+    color:rgb(167, 166, 166);
+}

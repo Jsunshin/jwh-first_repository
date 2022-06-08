@@ -1,0 +1,51 @@
+/*设置页面头部导航栏样式*/
+
+/*设置logo图片样式*/
+#logo_img{
+    width: 56px;
+    height: 56px;
+    position: absolute;
+    top: 65px;
+    left: 40px;
+}
+/*设置菜单导航栏样式*/
+.menu_nav{
+    position: absolute;
+    top: 70px;
+    left: 260px;
+}
+.nav_a{
+    font-size: 16px;
+    margin: 10px;
+    color: black;
+}
+.nav_a:hover{
+    color: red;
+}
+/*设置搜索栏样式*/
+.search_box{
+    position: absolute;
+    top: 65px;
+    right: 70px;
+}
+input[ type="search"]{
+    height: 50px;
+    width: 200px;
+    margin-right: 0px;
+    position: absolute;
+    right: 50px;
+
+}
+input[ type="button"]{
+    height: 50px;
+    width: 52px;
+    margin-left: 0px;
+}
+input:hover{
+    border-color:rgb(255, 103, 0);
+}
+input[ type="button"]:hover{
+    background-color:rgb(255, 103, 0);
+
+
+}
