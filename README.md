@@ -3,5 +3,5 @@ git is free software distributed under the GPL.
 git has a mutable index called stage.
 git tracks change.
 
-123456789
+123456789 + 123
 creating a new branch is quick and simple.
